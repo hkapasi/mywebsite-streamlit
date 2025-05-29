@@ -1,0 +1,4 @@
+[theme]
+base="light"
+primaryColor="#4CAF50"  # Green - accent for buttons or highlights
+secondaryBackgroundColor="#f0f2f6"  # Light gray for cards or sidebar
