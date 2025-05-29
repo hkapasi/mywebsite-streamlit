@@ -38,7 +38,7 @@ I’m a Senior Infrastructure engineer at General Mills India, in the Web Hostin
 
 With 11+ years of experience across Telecommunications, Network Security, and IT, I bring a strong foundation in building and efficiently operating platforms, DevOps practices, customer success, technical support and team management.
 
-🎓 I hold a degree in Electronics and Telecommunications Engineering, I also have a Post Graduate Certificate from IIIT Bengaluru in DevOps specialization, which landed me my first role official role in field DevOps and Cloud.
+🎓 I hold a degree in Electronics and Telecommunications Engineering, I also have a Post Graduate Certificate from IIIT Bengaluru in DevOps specialization, which landed me my first official role in field DevOps and Cloud.
 
 Certified Google Cloud Professional Architect ☁️   &   Certified Kubernetes Administrator ⚓️
 
