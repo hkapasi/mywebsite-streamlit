@@ -54,7 +54,7 @@ st.subheader("Projects:")
 genmills_projects ="""
 * Migration to Infrastructure as Code (IaC) for DNS Management: Transition DNS record management from manual (ClickOps) operations to Infrastructure as Code using Terraform with Infoblox as the DNS provider adding auditability of the records along effiecient and quick management.\n
 
-* Automated Decommissioning of Applications from GKE Clusters:  Implemented an automation using Kafka Pub/Sub and Argowork flows integrated with Backstage to auto-decommission applications as requested via Backstage by their respective owners.
+* Automated Decommissioning of Applications from GKE Clusters:  Implemented an automation using Kafka Pub/Sub and Argo workflows integrated with Backstage to auto-decommission applications as requested via Backstage by their respective owners.
  
 """
 
